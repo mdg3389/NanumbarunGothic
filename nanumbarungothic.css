@@ -1,5 +1,5 @@
 /*
- * Nanum Barun Gothic (Korean) http://hangeul.naver.com
+ * Nanum Barun Gothic  (Korean) http://hangeul.naver.com
  */
 
 @font-face {
@@ -12,7 +12,6 @@
 	url('./NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
         url('./NanumBarunGothic.ttf') format('truetype');
 }
-
 @font-face {
     font-family: 'NanumBarunGothicBold';
     font-weight: 800;
